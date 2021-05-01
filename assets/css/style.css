@@ -275,7 +275,29 @@ p {
         
     }
    
+    .search-engine-optimization h2{
+        font-size: 12px;
 
+    }
+
+    .search-engine-optimization p{
+        font-size: 10px;
+    }
+    .online-reputation-management h2{
+        font-size: 12px;
+    }
+
+    .online-reputation-management p{
+        font-size: 10px ;
+    }
+   
+    .social-media-marketing h2{
+        font-size: 15px;
+    }
+
+    .social-media-marketing p{
+        font-size: 10px;
+    }
       
 
   }
